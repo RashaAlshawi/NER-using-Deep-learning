@@ -30,10 +30,6 @@ Biobert_ncbi_disease_ner	0.9846	0.9840	0.9846	0.9832
 
 SapBERT exhibited the best performance, demonstrating its capability in recognizing taxonomic names and detection methods.  
 
-🛠️ Skills Utilized
-
-Dataset Creation & Annotation: Expertise in constructing high-quality datasets for NER tasks, including manual annotation and preprocessing techniques.  
-Deep Learning & NLP. 
 
 🔗 Future Work
 This work lays the groundwork for further exploration of NER in the biological sciences, including:
